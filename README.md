@@ -5,6 +5,7 @@
 <h3>Lista</h3>
 
 <ul>
+    <li><a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a></li>
     <li><a href="https://workera.ai/">https://workera.ai/</a></li>
     <li><a href="https://pt.stackoverflow.com/questions/70151/erro-access-denied-for-user-rootlocalhost-using-passwordno-ao-aceder-a">https://pt.stackoverflow.com/questions/70151/erro-access-denied-for-user-rootlocalhost-using-passwordno-ao-aceder-a</a></li>
     <li><a href="https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff">https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff</a></li>
